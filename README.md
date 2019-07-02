@@ -1,5 +1,5 @@
 # Async Node
-Show how Async functions works in Nodejs
+Show how async functions works in Nodejs
 
 ## Installation
 npm install
